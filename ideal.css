@@ -1,0 +1,17 @@
+/* 
+
+Grupo Ideal Trends
+MARKETING  -  FRONT END
+05/04/2019
+
+*/
+
+h1,h2{
+    text-transform: uppercase;
+}
+
+.shadow01{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.21);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.21);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.21);
+}
